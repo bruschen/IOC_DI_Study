@@ -1,0 +1,26 @@
+﻿using DI04_03_LayeredMvcDemo.Controllers;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.Optimization;
+using System.Web.Routing;
+
+namespace DI04_03_LayeredMvcDemo
+{
+    public class MvcApplication : System.Web.HttpApplication
+    {
+        protected void Application_Start()
+        {
+            AreaRegistration.RegisterAllAreas();
+            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+            RouteConfig.RegisterRoutes(RouteTable.Routes);
+            BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            // 把MVC 框架的預設controller factory 換掉。
+            var ctrlFactory = new MyControllerFactory();
+            ControllerBuilder.Current.SetControllerFactory(ctrlFactory);
+        }
+    }
+}

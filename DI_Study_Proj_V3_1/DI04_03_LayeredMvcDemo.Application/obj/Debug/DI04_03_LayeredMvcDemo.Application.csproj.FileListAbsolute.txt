@@ -1,0 +1,11 @@
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\bin\Debug\DI04_03_LayeredMvcDemo.Application.dll
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\bin\Debug\DI04_03_LayeredMvcDemo.Application.pdb
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\bin\Debug\DI04_03_LayeredMvcDemo.DataAccess.dll
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\bin\Debug\DI04_03_LayeredMvcDemo.Domain.dll
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\bin\Debug\EntityFramework.dll
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\bin\Debug\DI04_03_LayeredMvcDemo.DataAccess.pdb
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\bin\Debug\DI04_03_LayeredMvcDemo.Domain.pdb
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\bin\Debug\EntityFramework.xml
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\obj\Debug\DI04_03_LayeredMvcDemo.Application.csprojResolveAssemblyReference.cache
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\obj\Debug\DI04_03_LayeredMvcDemo.Application.dll
+C:\Users\bruschen\Documents\Visual Studio 2015\Projects\DI_Study\DI_Study_Proj\DI04_03_LayeredMvcDemo.Application\obj\Debug\DI04_03_LayeredMvcDemo.Application.pdb
